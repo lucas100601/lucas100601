@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**lucas100601/lucas100601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                ____             
+                \ _ `\           
+                 | \  `\._      
+                 |  |  _/ `-.._
+                 |  /-'  // /.'`-. .--.__
+                 /-'    || // //  |    __\
+               ./   .` |\///_//   \  /'   |
+             .'.-.__.` \ |/'-' .'  \|    /
+            / ( ____`.\ |/ .' '.'   |\  /
+           /  -//   \     /- _  '     `'|
+           |  ||o    ;       __`--      |
+           |   \\   /      //  `.  \    |
+           \    `---'     |/o    \_ )   \
+         _ _\_    /       |      /       |
+       _-_`-__-_.-'|__    \`-..-'       /
+      '  .--_--_-.. \_\/_              /
+        ' /    \... / .. \_-___       / \
+         /      `-._| ..-._--___     /   \
+        /    .---.|  `-.__/`--.__---'     |
+       /_.--/ . . \__/   _   `--._-.      |
+    .-'    | || | |   .-' `-.     \ `\    |
+  .'       `-\/\|-'  |  / /  \     `\ \   |
+ /                    \/ | .  |           |
+/                      \_/_/ / \          |
+|                          \/   \  :F_P:  |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
